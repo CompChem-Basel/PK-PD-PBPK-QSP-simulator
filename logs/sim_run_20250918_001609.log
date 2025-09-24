@@ -1,0 +1,44 @@
+2025-09-18 00:16:09,464 - INFO - ============================================================
+2025-09-18 00:16:09,465 - INFO - PK/PD Simulation Log Started
+2025-09-18 00:16:09,465 - INFO - ============================================================
+2025-09-18 00:16:09,465 - INFO - [STEP] Logging initialized -> Log file: pkpd_output\logs\sim_run_20250918_001609.log
+2025-09-18 00:16:09,465 - INFO - Population: healthy_male, Route: oral, Dose: 100.0 mg, Duration: 24 h
+2025-09-18 00:16:09,543 - INFO - [STEP] Featurization -> Processing CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1
+2025-09-18 00:16:09,774 - INFO - Absorption site: Ileum, pKa: 8.404000000000002
+2025-09-18 00:16:09,774 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-18 00:16:09,775 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:09,775 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:09,807 - INFO - ✔ 2D structure saved: pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_2D.png, pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_2D.svg
+2025-09-18 00:16:09,807 - INFO - [STEP] Simulation -> Starting for CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1
+2025-09-18 00:16:09,818 - INFO - [STEP] Simulation -> Finished for CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1
+2025-09-18 00:16:09,818 - INFO - [STEP] Export -> Saving results to pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_results.xlsx
+2025-09-18 00:16:10,026 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_results.xlsx
+2025-09-18 00:16:10,027 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_timecourse.png
+2025-09-18 00:16:10,999 - INFO - ✔ Plots saved: pkpd_output\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1\CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1_timecourse.png
+2025-09-18 00:16:10,999 - INFO - ✔ All results saved
+2025-09-18 00:16:10,999 - INFO - [STEP] Featurization -> Processing CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1
+2025-09-18 00:16:11,226 - INFO - Absorption site: Ileum, pKa: 8.778000000000002
+2025-09-18 00:16:11,227 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-18 00:16:11,227 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:11,227 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:11,252 - INFO - ✔ 2D structure saved: pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_2D.png, pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_2D.svg
+2025-09-18 00:16:11,252 - INFO - [STEP] Simulation -> Starting for CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1
+2025-09-18 00:16:11,260 - INFO - [STEP] Simulation -> Finished for CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1
+2025-09-18 00:16:11,260 - INFO - [STEP] Export -> Saving results to pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_results.xlsx
+2025-09-18 00:16:11,412 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_results.xlsx
+2025-09-18 00:16:11,412 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_timecourse.png
+2025-09-18 00:16:12,344 - INFO - ✔ Plots saved: pkpd_output\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1\CC(C)(C)OC(=O)N1C[C@@H]2C[C@H](C1)CN2S(=O)(=O)c1ccc(N)c(Br)c1_timecourse.png
+2025-09-18 00:16:12,344 - INFO - ✔ All results saved
+2025-09-18 00:16:12,345 - INFO - [STEP] Featurization -> Processing CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1
+2025-09-18 00:16:12,577 - INFO - Absorption site: Ileum, pKa: 8.854333333333335
+2025-09-18 00:16:12,577 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-18 00:16:12,577 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:12,577 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-18 00:16:12,600 - INFO - ✔ 2D structure saved: pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_2D.png, pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_2D.svg
+2025-09-18 00:16:12,600 - INFO - [STEP] Simulation -> Starting for CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1
+2025-09-18 00:16:12,610 - INFO - [STEP] Simulation -> Finished for CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1
+2025-09-18 00:16:12,611 - INFO - [STEP] Export -> Saving results to pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_results.xlsx
+2025-09-18 00:16:12,761 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_results.xlsx
+2025-09-18 00:16:12,761 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_timecourse.png
+2025-09-18 00:16:13,782 - INFO - ✔ Plots saved: pkpd_output\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1\CCc1ccccc1NC(=O)C[C@H](C)N[C@@H]1CCN(c2c(F)cccc2F)C1_timecourse.png
+2025-09-18 00:16:13,783 - INFO - ✔ All results saved

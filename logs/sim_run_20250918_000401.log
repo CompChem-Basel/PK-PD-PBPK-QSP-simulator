@@ -1,0 +1,7 @@
+2025-09-18 00:04:01,524 - INFO - ============================================================
+2025-09-18 00:04:01,524 - INFO - PK/PD Simulation Log Started
+2025-09-18 00:04:01,525 - INFO - ============================================================
+2025-09-18 00:04:01,525 - INFO - [STEP] Logging initialized -> Log file: pkpd_output\logs\sim_run_20250918_000401.log
+2025-09-18 00:04:01,525 - INFO - Population: healthy_male, Route: oral, Dose: 100.0 mg, Duration: 24 h
+2025-09-18 00:04:01,602 - INFO - [STEP] Featurization -> Processing CC1(C)CN[C@@H](C(=O)c2cccc(OC(F)F)n2)CO1
+2025-09-18 00:04:01,680 - ERROR - Simulation failed: name 'mol' is not defined

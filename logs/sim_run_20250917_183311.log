@@ -1,0 +1,44 @@
+2025-09-17 18:33:11,757 - INFO - ============================================================
+2025-09-17 18:33:11,757 - INFO - PK/PD Simulation Log Started
+2025-09-17 18:33:11,757 - INFO - ============================================================
+2025-09-17 18:33:11,757 - INFO - [STEP] Logging initialized -> Log file: pkpd_output\logs\sim_run_20250917_183311.log
+2025-09-17 18:33:11,757 - INFO - Population: healthy_male, Route: oral, Dose: 100.0 mg, Duration: 24 h
+2025-09-17 18:33:11,854 - INFO - [STEP] Featurization -> Processing CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1
+2025-09-17 18:33:12,083 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:33:12,083 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:33:12,084 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:12,084 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:12,113 - INFO - ✔ 2D structure saved: pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_2D.png, pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_2D.svg
+2025-09-17 18:33:12,113 - INFO - [STEP] Simulation -> Starting for CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1
+2025-09-17 18:33:12,122 - INFO - [STEP] Simulation -> Finished for CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1
+2025-09-17 18:33:12,123 - INFO - [STEP] Export -> Saving results to pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_results.xlsx
+2025-09-17 18:33:12,346 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_results.xlsx
+2025-09-17 18:33:12,347 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_timecourse.png
+2025-09-17 18:33:13,311 - INFO - ✔ Plots saved: pkpd_output\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1\CC[C@H](O)CN(C[C@@]12CO[C@@](CF)(C1)C2)C1CC1_timecourse.png
+2025-09-17 18:33:13,311 - INFO - ✔ All results saved
+2025-09-17 18:33:13,328 - INFO - [STEP] Featurization -> Processing CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21
+2025-09-17 18:33:13,560 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:33:13,560 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:33:13,560 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:13,560 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:13,584 - INFO - ✔ 2D structure saved: pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_2D.png, pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_2D.svg
+2025-09-17 18:33:13,584 - INFO - [STEP] Simulation -> Starting for CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21
+2025-09-17 18:33:13,593 - INFO - [STEP] Simulation -> Finished for CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21
+2025-09-17 18:33:13,594 - INFO - [STEP] Export -> Saving results to pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_results.xlsx
+2025-09-17 18:33:13,760 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_results.xlsx
+2025-09-17 18:33:13,760 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_timecourse.png
+2025-09-17 18:33:14,715 - INFO - ✔ Plots saved: pkpd_output\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21\CC(C)(C)OC(=O)N[C@@H]1C[C@@H]2C[C@H](N[C@H]3CO[C@H](C4CC4)C3)C[C@@H]21_timecourse.png
+2025-09-17 18:33:14,716 - INFO - ✔ All results saved
+2025-09-17 18:33:14,734 - INFO - [STEP] Featurization -> Processing CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:33:14,964 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:33:14,965 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:33:14,965 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:14,965 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:33:14,992 - INFO - ✔ 2D structure saved: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_2D.png, pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_2D.svg
+2025-09-17 18:33:14,992 - INFO - [STEP] Simulation -> Starting for CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:33:15,002 - INFO - [STEP] Simulation -> Finished for CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:33:15,002 - INFO - [STEP] Export -> Saving results to pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_results.xlsx
+2025-09-17 18:33:15,169 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_results.xlsx
+2025-09-17 18:33:15,170 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_timecourse.png
+2025-09-17 18:33:16,170 - INFO - ✔ Plots saved: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_timecourse.png
+2025-09-17 18:33:16,170 - INFO - ✔ All results saved

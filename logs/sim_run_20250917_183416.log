@@ -1,0 +1,44 @@
+2025-09-17 18:34:16,850 - INFO - ============================================================
+2025-09-17 18:34:16,850 - INFO - PK/PD Simulation Log Started
+2025-09-17 18:34:16,850 - INFO - ============================================================
+2025-09-17 18:34:16,850 - INFO - [STEP] Logging initialized -> Log file: pkpd_output\logs\sim_run_20250917_183416.log
+2025-09-17 18:34:16,850 - INFO - Population: healthy_male, Route: oral, Dose: 100.0 mg, Duration: 24 h
+2025-09-17 18:34:16,926 - INFO - [STEP] Featurization -> Processing CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:34:17,156 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:34:17,157 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:34:17,157 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:17,157 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:17,190 - INFO - ✔ 2D structure saved: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_2D.png, pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_2D.svg
+2025-09-17 18:34:17,190 - INFO - [STEP] Simulation -> Starting for CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:34:17,200 - INFO - [STEP] Simulation -> Finished for CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1
+2025-09-17 18:34:17,201 - INFO - [STEP] Export -> Saving results to pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_results.xlsx
+2025-09-17 18:34:17,407 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_results.xlsx
+2025-09-17 18:34:17,408 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_timecourse.png
+2025-09-17 18:34:18,360 - INFO - ✔ Plots saved: pkpd_output\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1\CCOc1cc(C)ccc1Cn1c(-c2ccc(C)o2)nnc1N1C[C@@H](C)OC(C)(C)C1_timecourse.png
+2025-09-17 18:34:18,361 - INFO - ✔ All results saved
+2025-09-17 18:34:18,378 - INFO - [STEP] Featurization -> Processing COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1
+2025-09-17 18:34:18,603 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:34:18,603 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:34:18,603 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:18,603 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:18,626 - INFO - ✔ 2D structure saved: pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_2D.png, pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_2D.svg
+2025-09-17 18:34:18,627 - INFO - [STEP] Simulation -> Starting for COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1
+2025-09-17 18:34:18,636 - INFO - [STEP] Simulation -> Finished for COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1
+2025-09-17 18:34:18,637 - INFO - [STEP] Export -> Saving results to pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_results.xlsx
+2025-09-17 18:34:18,829 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_results.xlsx
+2025-09-17 18:34:18,829 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_timecourse.png
+2025-09-17 18:34:19,769 - INFO - ✔ Plots saved: pkpd_output\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1\COCC1(C(=O)N2CC[C@H]3[C@@H]2CCN3C(=O)c2c(F)ccc(O)c2F)CC1_timecourse.png
+2025-09-17 18:34:19,769 - INFO - ✔ All results saved
+2025-09-17 18:34:19,787 - INFO - [STEP] Featurization -> Processing COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2
+2025-09-17 18:34:20,018 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:34:20,018 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:34:20,019 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:20,019 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:34:20,042 - INFO - ✔ 2D structure saved: pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_2D.png, pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_2D.svg
+2025-09-17 18:34:20,042 - INFO - [STEP] Simulation -> Starting for COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2
+2025-09-17 18:34:20,055 - INFO - [STEP] Simulation -> Finished for COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2
+2025-09-17 18:34:20,055 - INFO - [STEP] Export -> Saving results to pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_results.xlsx
+2025-09-17 18:34:20,228 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_results.xlsx
+2025-09-17 18:34:20,228 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_timecourse.png
+2025-09-17 18:34:21,222 - INFO - ✔ Plots saved: pkpd_output\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2\COc1cccc2c1[C@H](C(=O)Nc1ccn(CC(=O)N(C)C)n1)CC2_timecourse.png
+2025-09-17 18:34:21,222 - INFO - ✔ All results saved

@@ -1,0 +1,21 @@
+smiles,clearance
+CC(=O)Oc1ccccc1C(=O)O,0.15      # aspirin — approx hepatic clearance in L/h
+CN1CCC[C@H]1c2ccccc2,1.20       # nicotine — high clearance
+CC(=O)c1ccccc1NC(=O)C(C)(C)O,0.30
+CCOC(=O)c1ccc(cc1)N,0.25
+Clc1cc(Cl)cc(Cl)c1,0.05
+O=C1NC(=O)NC2C1CCC2,0.02
+CC(C)NCC(O)CO,0.80
+CC1=CC(=CC=C1)O,0.40
+COc1cc(cc(c1)OC)O,0.35
+CC(C)(C)OCc1ccccc1,0.10
+CCN(CC)CCOc1ccc2ccccc2c1,0.90
+C1=CC=C(C=C1)C(=O)O,0.20
+CCOC(=O)C(C)N(C)C,0.25
+CC(C)OC(=O)c1ccc(O)cc1,0.15
+C1CCC(CC1)NC(=O)c2ccccc2,0.12
+CN(C)C(=O)C(Cl)Cl,1.10
+CC(C)C1=CC=C(C=C1)O,0.50
+CCC(=O)OCCN,0.45
+COC(=O)C1=CC=CC=C1,0.22
+CC(C)(C)C(O)=O,0.80

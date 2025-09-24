@@ -1,0 +1,47 @@
+2025-09-17 18:35:27,186 - INFO - ============================================================
+2025-09-17 18:35:27,186 - INFO - PK/PD Simulation Log Started
+2025-09-17 18:35:27,186 - INFO - ============================================================
+2025-09-17 18:35:27,187 - INFO - [STEP] Logging initialized -> Log file: pkpd_output\logs\sim_run_20250917_183527.log
+2025-09-17 18:35:27,187 - INFO - Population: healthy_male, Route: oral, Dose: 100.0 mg, Duration: 24 h
+2025-09-17 18:35:27,290 - INFO - [STEP] Featurization -> Processing CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1
+2025-09-17 18:35:27,515 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:35:27,516 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:35:27,516 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:27,516 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:27,543 - INFO - ✔ 2D structure saved: pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_2D.png, pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_2D.svg
+2025-09-17 18:35:27,544 - INFO - [STEP] Simulation -> Starting for CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1
+2025-09-17 18:35:27,554 - INFO - [STEP] Simulation -> Finished for CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1
+2025-09-17 18:35:27,554 - INFO - [STEP] Export -> Saving results to pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_results.xlsx
+2025-09-17 18:35:27,723 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_results.xlsx
+2025-09-17 18:35:27,724 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_timecourse.png
+2025-09-17 18:35:28,729 - INFO - ✔ Plots saved: pkpd_output\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1\CCC[C@@H]1CN(c2nnc(CC3CC3)n2C[C@H]2CCOC2)CCN1Cc1ccccc1_timecourse.png
+2025-09-17 18:35:28,729 - INFO - ✔ All results saved
+2025-09-17 18:35:28,746 - INFO - [STEP] Featurization -> Processing C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1
+2025-09-17 18:35:28,973 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:35:28,974 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:35:28,974 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:28,974 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:28,999 - INFO - ✔ 2D structure saved: pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_2D.png, pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_2D.svg
+2025-09-17 18:35:28,999 - INFO - [STEP] Simulation -> Starting for C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1
+2025-09-17 18:35:29,009 - INFO - [STEP] Simulation -> Finished for C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1
+2025-09-17 18:35:29,009 - INFO - [STEP] Export -> Saving results to pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_results.xlsx
+2025-09-17 18:35:29,189 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_results.xlsx
+2025-09-17 18:35:29,189 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_timecourse.png
+2025-09-17 18:35:30,121 - INFO - ✔ Plots saved: pkpd_output\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1\C[C@H](CC(=O)N[C@@H]1C[C@@H]2CC[C@H](C1)N2C(=O)c1cc2cc(F)ccc2[nH]1)c1ccccc1_timecourse.png
+2025-09-17 18:35:30,122 - INFO - ✔ All results saved
+2025-09-17 18:35:30,138 - INFO - [STEP] Featurization -> Processing C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21
+2025-09-17 18:35:30,372 - INFO - Absorption site: ('Poor absorption (ionized)', None)
+2025-09-17 18:35:30,373 - INFO - [STEP] Population -> healthy_male, Route=oral
+2025-09-17 18:35:30,373 - INFO - PK parameters: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:30,373 - INFO - Physiology: {'Vd': 0.5, 'Cl': 0.1, 'ka': 1.0, 't_abs': 2.0}
+2025-09-17 18:35:30,395 - INFO - ✔ 2D structure saved: pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_2D.png, pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_2D.svg
+2025-09-17 18:35:30,396 - INFO - [STEP] Simulation -> Starting for C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21
+2025-09-17 18:35:30,405 - INFO - [STEP] Simulation -> Finished for C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21
+2025-09-17 18:35:30,405 - INFO - [STEP] Export -> Saving results to pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_results.xlsx
+2025-09-17 18:35:30,575 - INFO - ✔ 2D structure embedded in Excel: pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_results.xlsx
+2025-09-17 18:35:30,575 - INFO - [STEP] Plotting -> Saving plots to pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_timecourse.png
+2025-09-17 18:35:31,515 - INFO - ✔ Plots saved: pkpd_output\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21\C[C@H]1OC2(CCN(c3ncc4ccccc4c3C#N)CC2)c2ccccc21_timecourse.png
+2025-09-17 18:35:31,516 - INFO - ✔ All results saved
+2025-09-17 18:36:47,787 - INFO - ✔ Trained pka_model (R²=0.216)
+2025-09-17 18:36:48,388 - INFO - ✔ Trained ec50_model (R²=-1.196)
+2025-09-17 18:36:49,004 - INFO - ✔ Trained clearance_model (R²=-0.345)
