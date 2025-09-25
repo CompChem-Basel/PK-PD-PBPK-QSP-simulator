@@ -8,4 +8,4 @@ The ML model needs to be trained using larger databases, and more features will 
 
 The first step in this project is the launch (DONE).
 
-The second step will be improving the ML training dataset (In Progress)
+The second step will be improving the ML training dataset (In Progress).
